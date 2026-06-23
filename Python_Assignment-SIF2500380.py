@@ -91,7 +91,7 @@ def view_bookings():
     print("No bookings found.")
   else:
     for booking in bookings:
-      print(bookings)
+      print(booking)
 
 
 def search_booking():
